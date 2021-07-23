@@ -1,0 +1,12 @@
+C:\Users\thiago.machado\Documents\GitHub\ThiagoHMachado\Teste Global Tecnologia\Teste Global Tecnologia\bin\Debug\netcoreapp2.1\Teste Global Tecnologia.deps.json
+C:\Users\thiago.machado\Documents\GitHub\ThiagoHMachado\Teste Global Tecnologia\Teste Global Tecnologia\bin\Debug\netcoreapp2.1\Teste Global Tecnologia.runtimeconfig.json
+C:\Users\thiago.machado\Documents\GitHub\ThiagoHMachado\Teste Global Tecnologia\Teste Global Tecnologia\bin\Debug\netcoreapp2.1\Teste Global Tecnologia.runtimeconfig.dev.json
+C:\Users\thiago.machado\Documents\GitHub\ThiagoHMachado\Teste Global Tecnologia\Teste Global Tecnologia\bin\Debug\netcoreapp2.1\Teste Global Tecnologia.dll
+C:\Users\thiago.machado\Documents\GitHub\ThiagoHMachado\Teste Global Tecnologia\Teste Global Tecnologia\bin\Debug\netcoreapp2.1\Teste Global Tecnologia.pdb
+C:\Users\thiago.machado\Documents\GitHub\ThiagoHMachado\Teste Global Tecnologia\Teste Global Tecnologia\obj\Debug\netcoreapp2.1\Teste Global Tecnologia.csproj.AssemblyReference.cache
+C:\Users\thiago.machado\Documents\GitHub\ThiagoHMachado\Teste Global Tecnologia\Teste Global Tecnologia\obj\Debug\netcoreapp2.1\Teste Global Tecnologia.AssemblyInfoInputs.cache
+C:\Users\thiago.machado\Documents\GitHub\ThiagoHMachado\Teste Global Tecnologia\Teste Global Tecnologia\obj\Debug\netcoreapp2.1\Teste Global Tecnologia.AssemblyInfo.cs
+C:\Users\thiago.machado\Documents\GitHub\ThiagoHMachado\Teste Global Tecnologia\Teste Global Tecnologia\obj\Debug\netcoreapp2.1\Teste Global Tecnologia.csproj.CoreCompileInputs.cache
+C:\Users\thiago.machado\Documents\GitHub\ThiagoHMachado\Teste Global Tecnologia\Teste Global Tecnologia\obj\Debug\netcoreapp2.1\Teste Global Tecnologia.dll
+C:\Users\thiago.machado\Documents\GitHub\ThiagoHMachado\Teste Global Tecnologia\Teste Global Tecnologia\obj\Debug\netcoreapp2.1\Teste Global Tecnologia.pdb
+C:\Users\thiago.machado\Documents\GitHub\ThiagoHMachado\Teste Global Tecnologia\Teste Global Tecnologia\obj\Debug\netcoreapp2.1\Teste Global Tecnologia.genruntimeconfig.cache

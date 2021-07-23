@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xns/2um7KDjITGtuCZmf9If62QiXj5OpeqpWraQPUNPhzD6vnJmlvmmxlIfcBHZXr9XYErwI/ckhuiHjKBMXpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiago.machado\\Documents\\GitHub\\ThiagoHMachado\\Teste Global Tecnologia\\Teste Global Tecnologia\\Teste Global Tecnologia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiago.machado\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\thiago.machado\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\thiago.machado\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\thiago.machado\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\thiago.machado\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\thiago.machado\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\thiago.machado\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
